@@ -100,4 +100,4 @@
     VK
   </sub>
 </p>
-"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg"
+<!-- "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" -->
