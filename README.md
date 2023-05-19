@@ -88,7 +88,7 @@
     GitHub
   </sub>
   <a href="https://t.me/OzerovIvan" target="_blank" rel="noreferrer">
-    <img src="https://1.bp.blogspot.com/-lt46xpzmL2w/YEyr5FPidjI/AAAAAAAACr0/YFISxJY_dzQUyRZEC7a0ULa-Hv6Sj26QACLcBGAsYHQ/s2048/nwdn_file_temp_1615637411069.jpg" width="32" height="32" />
+    <img src="https://funart.pro/uploads/posts/2022-08/1660003279_20-funart-pro-p-telegram-art-krasivo-22.jpg" width="32" height="32" />
   </a>
   <sub>
     Telegram
