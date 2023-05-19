@@ -12,6 +12,9 @@ Junior Python-разработчик
   Сейчас я прохожу обучение в Практикуме от Яндекс на направлении Python-разработчик. Параллельно этому прохожу курс "Добрый, добрый Python" на stepic. Изучил книгу Тонни Гэддиса "Начинаем программировать на Python". Сейчас изучаю книги Элизабет Роббсон, Эрик Фримен: "HTML и CSS" и "Изучаем программирование на JavaScript". Так же смотрю каналы на YouTube: "selfedu", "Андрей += Пронин", "Ulbi TV" и другие.
 </p>
 <p>
+  Мои хобби: хоккей и рыбалка.
+</p>
+<p>
   В своей хоккейной команде играю на той же позиции, что и Александр Овечкин, потому что всегда нацелен на ворота соперника, то есть на результат.)
 </p>
 <p>
@@ -28,8 +31,6 @@ Junior Python-разработчик
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/VanZep" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://t.me/OzerovIvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 ### Автор
 ***VanZep***
