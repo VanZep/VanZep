@@ -88,7 +88,7 @@
     GitHub
   </sub>
   <a href="https://t.me/OzerovIvan" target="_blank" rel="noreferrer">
-    <img src="https://dop96.ru/gallery/tg.png" width="32" height="32" />
+    <img src="https://avatars.mds.yandex.net/i?id=a74eb54c3563a8233b2beaa117927c85136f83cf-8132087-images-thumbs&n=13" width="32" height="32" />
   </a>
   <sub>
     Telegram
