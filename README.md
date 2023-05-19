@@ -92,7 +92,7 @@
   <sub>
     Telegram
   </sub>
-  <a href="https://vk.com/f1ll_zzz" target="_blank">
+  <a href="https://vk.com/id2787816" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
   </a>
   <sub>
