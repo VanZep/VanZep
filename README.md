@@ -67,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="40" height="40" alt="Fast API"/>
   </a>
   <sub>
-    API
+    FastAPI
   </sub>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -93,7 +93,7 @@
     Telegram
   </sub>
   <a href="https://vk.com/id2787816" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/>
   </a>
   <sub>
     VK
