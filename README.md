@@ -22,7 +22,9 @@
 
 * 🌍  Москва
 * ✉️  [vanzup@mail.ru](mailto:vanzup@mail.ru)
+
 ---
+
 ### Skills
 
 <p align="left">
