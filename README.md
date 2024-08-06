@@ -90,15 +90,13 @@
     GitHub
   </sub>
   <a href="https://t.me/OzerovIvan" target="_blank" rel="noreferrer">
-    <img src="https://funart.pro/uploads/posts/2022-08/1660003279_20-funart-pro-p-telegram-art-krasivo-22.jpg" width="32" height="32" />
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32" height="32" />
   </a>
   <sub>
     Telegram
   </sub>
   <a href="https://vk.com/id2787816" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32" height="32" alt="VK Badge"/>
-    
-   /* https://cdn-icons-png.flaticon.com/512/145/145813.png
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/>
   </a>
   <sub>
     VK
