@@ -23,7 +23,7 @@
 </p>
 
 * 🌍  Москва
-* ✉️  [vanzup@mail.ru](mailto:vanzup@mail.ru)
+* ✉️  vanzup@mail.ru
 
 ---
 
