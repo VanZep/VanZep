@@ -31,7 +31,7 @@
 
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://iconscout.com/free-icon/docker" alt="docker" width="40" height="40"/>
+    <img src="https://iconscout.com/free-icon/docker.img" alt="docker" width="40" height="40"/>
   </a>
   <sub>
     Docker
