@@ -30,12 +30,6 @@
 ### Skills
 
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <sub>
-    Docker
-  </sub>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -71,6 +65,19 @@
   </a>
   <sub>
     SQLite
+  </sub>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <sub>
+    Docker
+  </sub>
+  </sub>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <sub>
+    Docker
   </sub>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
