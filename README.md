@@ -90,6 +90,12 @@
   <sub>
     Postman
   </sub>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <sub>
+    Linux
+  </sub>
 </p>
 
 ### Socials
