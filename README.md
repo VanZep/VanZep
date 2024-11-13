@@ -96,6 +96,12 @@
   <sub>
     Linux
   </sub>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
+  </a>
+  <sub>
+    Ubuntu
+  </sub>
 </p>
 
 ### Socials
