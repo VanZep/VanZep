@@ -30,6 +30,12 @@
 ### Skills
 
 <p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://iconscout.com/free-icon/docker" alt="docker" width="40" height="40"/>
+  </a>
+  <sub>
+    Docker
+  </sub>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
