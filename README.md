@@ -48,6 +48,7 @@
 </p>
 <p>
  <pre><b><i><ins>Стек: Python, DRF, Djoser</ins></i></b></pre>
+ <span style="color:blue;">текст выделен в синий</span>
 </p>
 
 ### 3. [YaMDb](https://github.com/VanZep/YaMDb)
