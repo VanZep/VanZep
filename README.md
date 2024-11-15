@@ -47,7 +47,7 @@
   Разработал REST API на DRF для социальной сети публикации заметок и постов с авторизацией на JWT-токенах.
 </p>
 <p>
-  <ins>Стек: Python, DRF, Djoser</ins>
+  <mark>Стек: Python, DRF, Djoser</mark>
 </p>
 
 ### 3. [YaMDb](https://github.com/VanZep/YaMDb)
