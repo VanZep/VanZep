@@ -47,7 +47,7 @@
   Разработал REST API на DRF для социальной сети публикации заметок и постов с авторизацией на JWT-токенах.
 </p>
 <p>
-  Стек: Python, DRF, Djoser
+  <ins>Стек: Python, DRF, Djoser</ins>
 </p>
 
 ### 3. [YaMDb](https://github.com/VanZep/YaMDb)
@@ -58,7 +58,7 @@
   В проекте выполнял роль Тимлида. Следил за Kanban-доской, дедлайнами, ветками и pull request на GitHub. Проверял код коллег и предлагал оптимальные решения. Координировал действия команды.
 </p>
 <p>
-  Стек: Python, DRF, Djoser
+  <b><i>Стек: Python, DRF, Djoser</i></b>
 </p>
 
 ---
