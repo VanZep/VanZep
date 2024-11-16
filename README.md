@@ -145,17 +145,17 @@
   <sub>
     Telegram
   </sub>
-  <a href="https://vk.com/id2787816" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/>
-  </a>
-  <sub>
-    VK
-  </sub>
   <a href="https://career.habr.com/vanzep" target="_blank">
     <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/habr.svg" width="32" height="32"/>
   </a>
   <sub>
     Habr
+  </sub>
+  <a href="https://vk.com/id2787816" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/>
+  </a>
+  <sub>
+    VK
   </sub>
 </p>
 <!-- "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" -->
