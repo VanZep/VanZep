@@ -56,18 +56,12 @@
   <b><i><ins>Стек: Python, DRF, Docker, DockerHub, PostgreSQL, gunicorn, Nginx, GitHub Actions</ins></i></b>
 </p>
 
-### 5. [the_snake](https://github.com/VanZep/the_snake)
-<p>
-  Разработал игру "Змейка" с помощью библиотеки pygame, применив ООП.
-</p>
+### 5. [the_snake](https://github.com/VanZep/the_snake) - игра "Змейка".
 <p>
   <b><i><ins>Стек: Python, pygame, ООП</ins></i></b>
 </p>
 
-### 6. [telegram_bot](https://github.com/VanZep/telegram_bot)
-<p>
-  Разработал Telegram-бота, который следит за статусом, отправленной на ревью, работы и, если статус изменился, присылает в Telegram соответствующее сообщение. Также реализовано логирование событий. Использована библиотека python-dotenv   для сокрытия переменных окружения.
-</p>
+### 6. [telegram_bot](https://github.com/VanZep/telegram_bot) - Telegram-бот.
 <p>
   <b><i><ins>Стек: Python, pyTelegramBotAPI, python-dotenv</ins></i></b>
 </p>
