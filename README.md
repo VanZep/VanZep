@@ -33,34 +33,29 @@
 ---
 
 ### Мои проекты
-#### **1. [Yatube](https://github.com/VanZep/Yatube)** - *социальная сеть для публикации заметок и постов.*
+**1. [Yatube](https://github.com/VanZep/Yatube)** - *социальная сеть для публикации заметок и постов.*
 
 <!--<b><i><ins>Стек: Python, Django, html, unittest</ins></i></b>-->
 
 **2. [Yatube_API](https://github.com/VanZep/Yatube_API)** - *REST API для социальной сети Yatube.*
-<p>
- <b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>
-</p>
 
-3. [YaMDb](https://github.com/VanZep/YaMDb) - командный проект (3 разработчика), который собирает отзывы пользователей на произведения.
-<p>
-  <b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>
-</p>
+<!--<b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>-->
 
-***4. [Kittygram](https://github.com/VanZep/Kittygram) - проект для любителей и владельцев кошек.***
-<p>
-  <b><i><ins>Стек: Python, DRF, Docker, DockerHub, PostgreSQL, gunicorn, Nginx, GitHub Actions</ins></i></b>
-</p>
+**3. [YaMDb](https://github.com/VanZep/YaMDb)** - *командный проект (3 разработчика), который собирает отзывы пользователей на произведения.*
 
-### 5. [the_snake](https://github.com/VanZep/the_snake) - игра "Змейка".
-<p>
-  <b><i><ins>Стек: Python, pygame, ООП</ins></i></b>
-</p>
+<!--<b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>-->
 
-### 6. [telegram_bot](https://github.com/VanZep/telegram_bot) - Telegram-бот.
-<p>
-  <b><i><ins>Стек: Python, pyTelegramBotAPI, python-dotenv</ins></i></b>
-</p>
+**4. [Kittygram](https://github.com/VanZep/Kittygram)** - *проект для любителей и владельцев кошек.*
+
+<!--<b><i><ins>Стек: Python, DRF, Docker, DockerHub, PostgreSQL, gunicorn, Nginx, GitHub Actions</ins></i></b>-->
+
+**5. [the_snake](https://github.com/VanZep/the_snake)** - *игра "Змейка".*
+
+<!--<b><i><ins>Стек: Python, pygame, ООП</ins></i></b></p>-->
+
+**6. [telegram_bot](https://github.com/VanZep/telegram_bot)** - *Telegram-бот.*
+
+<!--<b><i><ins>Стек: Python, pyTelegramBotAPI, python-dotenv</ins></i></b>-->
 
 ---
 
