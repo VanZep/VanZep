@@ -38,10 +38,7 @@
   <b><i><ins>Стек: Python, Django, html, unittest</ins></i></b>
 </p>
 
-### 2. [Yatube_API](https://github.com/VanZep/Yatube_API)
-<p>
-  Разработал REST API на DRF для социальной сети публикации заметок и постов с авторизацией на JWT-токенах.
-</p>
+### 2. [Yatube_API](https://github.com/VanZep/Yatube_API) - REST API для социальной сети Yatube.
 <p>
  <b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>
 </p>
