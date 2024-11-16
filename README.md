@@ -33,8 +33,7 @@
 ---
 
 ### Мои проекты
-### 1. [Yatube](https://github.com/VanZep/Yatube) ###
-- *социальная сеть для публикации заметок и постов.*
+#### 1. [Yatube](https://github.com/VanZep/Yatube) - *социальная сеть для публикации заметок и постов.*
 
 ***Стек: Python, Django, html, unittest***
 
@@ -43,7 +42,7 @@
  <b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>
 </p>
 
-+3. [YaMDb](https://github.com/VanZep/YaMDb) - командный проект (3 разработчика), который собирает отзывы пользователей на произведения.
+3. [YaMDb](https://github.com/VanZep/YaMDb) - командный проект (3 разработчика), который собирает отзывы пользователей на произведения.
 <p>
   <b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>
 </p>
