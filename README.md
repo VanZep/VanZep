@@ -35,7 +35,7 @@
 ### Мои проекты
 **1. [Yatube](https://github.com/VanZep/Yatube)** - социальная сеть для публикации заметок и постов.
 
-***<u>Стек: Python, Django, html, unittest</u>***
+<u>***Стек: Python, Django, html, unittest***</u>
 
 *2. [Yatube_API](https://github.com/VanZep/Yatube_API) - REST API для социальной сети Yatube.*
 <p>
