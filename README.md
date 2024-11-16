@@ -38,17 +38,17 @@
   <b><i><ins>Стек: Python, Django, html, unittest</ins></i></b>
 </p>
 
-### 2. [Yatube_API](https://github.com/VanZep/Yatube_API) - REST API для социальной сети Yatube.
+*2. [Yatube_API](https://github.com/VanZep/Yatube_API) - REST API для социальной сети Yatube.*
 <p>
  <b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>
 </p>
 
-### 3. [YaMDb](https://github.com/VanZep/YaMDb) - командный проект (3 разработчика), который собирает отзывы пользователей на произведения.
++3. [YaMDb](https://github.com/VanZep/YaMDb) - командный проект (3 разработчика), который собирает отзывы пользователей на произведения.
 <p>
   <b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>
 </p>
 
-### 4. [Kittygram](https://github.com/VanZep/Kittygram) - проект для любителей и владельцев кошек.
+***4. [Kittygram](https://github.com/VanZep/Kittygram) - проект для любителей и владельцев кошек.***
 <p>
   <b><i><ins>Стек: Python, DRF, Docker, DockerHub, PostgreSQL, gunicorn, Nginx, GitHub Actions</ins></i></b>
 </p>
