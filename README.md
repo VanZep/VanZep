@@ -77,6 +77,14 @@
   <b><i><ins>Стек: Python, pygame, ООП</ins></i></b>
 </p>
 
+### 6. [telegram_bot](https://github.com/VanZep/telegram_bot)
+<p>
+  Разработал Telegram-бота, который следит за статусом, отправленной на ревью, работы и, если статус изменился, присылает в Telegram соответствующее сообщение. Также реализовано логирование событий. Использована библиотека python-dotenv   для сокрытия переменных окружения.
+</p>
+<p>
+  <b><i><ins>Стек: Python, pyTelegramBotAPI, python-dotenv</ins></i></b>
+</p>
+
 ---
 
 ### Skills
