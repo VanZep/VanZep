@@ -34,6 +34,7 @@
 
 ### Мои проекты
 **1. [Yatube](https://github.com/VanZep/Yatube) - социальная сеть для публикации заметок и постов.**
+***Стек: Python, Django, html, unittest***
 <p>
   <b><i><ins>Стек: Python, Django, html, unittest</ins></i></b>
 </p>
