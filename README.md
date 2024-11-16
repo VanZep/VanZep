@@ -152,7 +152,7 @@
     VK
   </sub>
   <a href="https://career.habr.com/vanzep" target="_blank">
-    <img src=" https://github.com/simple-icons/simple-icons/blob/master/icons/habr.svg" width="32" height="32"/>
+    <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/habr.svg" width="32" height="32"/>
   </a>
   <sub>
     Habr
