@@ -69,6 +69,14 @@
   <b><i><ins>Стек: Python, DRF, Docker, DockerHub, PostgreSQL, gunicorn, Nginx, GitHub Actions</ins></i></b>
 </p>
 
+### 5. [the_snake](https://github.com/VanZep/the_snake)
+<p>
+  Разработал игру "Змейка" с помощью библиотеки pygame, применив ООП.
+</p>
+<p>
+  <b><i><ins>Стек: Python, pygame, ООП</ins></i></b>
+</p>
+
 ---
 
 ### Skills
