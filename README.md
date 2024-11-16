@@ -51,7 +51,7 @@
   <b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>
 </p>
 
-### 4. [Kittygram](https://github.com/VanZep/Kittygram) - проекта для любителей и владельцев кошек.
+### 4. [Kittygram](https://github.com/VanZep/Kittygram) - проект для любителей и владельцев кошек.
 <p>
   <b><i><ins>Стек: Python, DRF, Docker, DockerHub, PostgreSQL, gunicorn, Nginx, GitHub Actions</ins></i></b>
 </p>
