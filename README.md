@@ -30,7 +30,7 @@
 ---
 
 ### Мои проекты
-**1. [Yatube](https://github.com/VanZep/Recipebook)** - *сайт для поваров и любителей готовить.*
+**1. [Recipebook](https://github.com/VanZep/Recipebook)** - *сайт для поваров и любителей готовить.*
 
 <!--<b><i><ins>Стек: Python , Django , djangorestframework , gunicorn , Nginx , djoser , PostgreSQL, Docker, React, API, Postman, JSON, YAML, CSV</ins></i></b>-->
 
