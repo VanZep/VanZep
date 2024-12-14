@@ -30,27 +30,31 @@
 ---
 
 ### Мои проекты
-**1. [Yatube](https://github.com/VanZep/Yatube)** - *социальная сеть для публикации заметок и постов.*
+**1. [Yatube](https://github.com/VanZep/Recipebook)** - *сайт для поваров и любителей готовить.*
+
+<!--<b><i><ins>Стек: Python , Django , djangorestframework , gunicorn , Nginx , djoser , PostgreSQL, Docker, React, API, Postman, JSON, YAML, CSV</ins></i></b>-->
+
+**2. [Yatube](https://github.com/VanZep/Yatube)** - *социальная сеть для публикации заметок и постов.*
 
 <!--<b><i><ins>Стек: Python, Django, html, unittest</ins></i></b>-->
 
-**2. [Yatube_API](https://github.com/VanZep/Yatube_API)** - *REST API для социальной сети Yatube.*
+**3. [Yatube_API](https://github.com/VanZep/Yatube_API)** - *REST API для социальной сети Yatube.*
 
 <!--<b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>-->
 
-**3. [YaMDb](https://github.com/VanZep/YaMDb)** - *командный проект (3 разработчика), который собирает отзывы пользователей на произведения.*
+**4. [YaMDb](https://github.com/VanZep/YaMDb)** - *командный проект (3 разработчика), который собирает отзывы пользователей на произведения.*
 
 <!--<b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>-->
 
-**4. [Kittygram](https://github.com/VanZep/Kittygram)** - *проект для любителей и владельцев кошек.*
+**5. [Kittygram](https://github.com/VanZep/Kittygram)** - *проект для любителей и владельцев кошек.*
 
 <!--<b><i><ins>Стек: Python, DRF, Docker, DockerHub, PostgreSQL, gunicorn, Nginx, GitHub Actions</ins></i></b>-->
 
-**5. [the_snake](https://github.com/VanZep/the_snake)** - *игра "Змейка".*
+**6. [the_snake](https://github.com/VanZep/the_snake)** - *игра "Змейка".*
 
 <!--<b><i><ins>Стек: Python, pygame, ООП</ins></i></b></p>-->
 
-**6. [telegram_bot](https://github.com/VanZep/telegram_bot)** - *Telegram-бот.*
+**7. [telegram_bot](https://github.com/VanZep/telegram_bot)** - *Telegram-бот.*
 
 <!--<b><i><ins>Стек: Python, pyTelegramBotAPI, python-dotenv</ins></i></b>-->
 
