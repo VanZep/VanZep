@@ -42,15 +42,15 @@
 
 <!--<b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>-->
 
-**4. [YaMDb](https://github.com/VanZep/YaMDb)** - *командный проект (3 разработчика), который собирает отзывы пользователей на произведения.*
+**4. [FeedbackBook](https://github.com/VanZep/FeedbackBook)** - *командный проект (3 разработчика), который собирает отзывы пользователей на произведения.*
 
 <!--<b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>-->
 
-**5. [Kittygram](https://github.com/VanZep/Kittygram)** - *проект для любителей и владельцев кошек.*
+**5. [SweetyKitty](https://github.com/VanZep/SweetyKitty)** - *проект для любителей и владельцев кошек.*
 
 <!--<b><i><ins>Стек: Python, DRF, Docker, DockerHub, PostgreSQL, gunicorn, Nginx, GitHub Actions</ins></i></b>-->
 
-**6. [the_snake](https://github.com/VanZep/the_snake)** - *игра "Змейка".*
+**6. [HungryWorm](https://github.com/VanZep/HungryWorm)** - *игра "HungryWorm".*
 
 <!--<b><i><ins>Стек: Python, pygame, ООП</ins></i></b></p>-->
 
