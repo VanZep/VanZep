@@ -34,11 +34,11 @@
 
 <!--<b><i><ins>Стек: Python , Django , djangorestframework , gunicorn , Nginx , djoser , PostgreSQL, Docker, React, API, Postman, JSON, YAML, CSV</ins></i></b>-->
 
-**2. [Yatube](https://github.com/VanZep/Yatube)** - *социальная сеть для публикации заметок и постов.*
+**2. [Note_publc](https://github.com/VanZep/Note_publc)** - *социальная сеть для публикации заметок и постов.*
 
 <!--<b><i><ins>Стек: Python, Django, html, unittest</ins></i></b>-->
 
-**3. [Yatube_API](https://github.com/VanZep/Yatube_API)** - *REST API для социальной сети Yatube.*
+**3. [Note_publc_API](https://github.com/VanZep/Note_publc_API)** - *REST API для социальной сети Yatube.*
 
 <!--<b><i><ins>Стек: Python, DRF, Djoser</ins></i></b>-->
 
