@@ -2,9 +2,7 @@
 =============================================================================================================================
 ## Я Python-разработчик.
 
----
-
-### Мои проекты
+## Мои проекты
 **1. [Recipebook](https://github.com/VanZep/Recipebook)** - *сайт для поваров и любителей готовить.*
 
 <!--<b><i><ins>Стек: Python , Django , djangorestframework , gunicorn , Nginx , djoser , PostgreSQL, Docker, React, API, Postman, JSON, YAML, CSV</ins></i></b>-->
@@ -136,9 +134,6 @@
   </sub>
 </p>
 <!-- "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" -->
-
-* 🌍  Москва
-* ✉️  *vanzup@mail.ru*
 
 ---
 
